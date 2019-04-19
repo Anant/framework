@@ -12,10 +12,10 @@ A curated list of commercial tools, libraries, frameworks, open source software,
  
 ## General 
 
-## Interface
-
-### Roadmap
+### Architect Roadmap
 - [INSERT ROADMAP](http://www.google.com)
+
+## Interface
 
 ### CSS
 - [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
@@ -34,9 +34,6 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 
 ## Software
 
-### Roadmap
-- [INSERT ROADMAP](http://www.google.com)
-
 ### C#
 
 ### Scala
@@ -53,9 +50,6 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 
 ## Database
 
-### Roadmap
-- [INSERT ROADMAP](http://www.google.com)
-
 ### SQL Server
 
 ### PostgreSQL
@@ -69,9 +63,6 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 ### GraphQL
 
 ## System
-
-### Roadmap
-- [INSERT ROADMAP](http://www.google.com)
 
 ### Container
 
