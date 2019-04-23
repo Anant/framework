@@ -38,12 +38,16 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 ## Software
 
 ### C#
+- [C# Frameworks, Libraries & Software](https://github.com/uhub/awesome-c-sharp)
 
 ### Scala
+- [Scala Native Resources and Libraries](https://github.com/tindzk/awesome-scala-native)
 
 ### Java
+- [Java Frameworks, Libraries & Software](https://github.com/akullpp/awesome-java)
 
 ### Node
+- [Node Packages & Resources](https://github.com/sindresorhus/awesome-nodejs)
 
 ### Python
 - [Python Frameworks, Libraries, Software, Resources](https://github.com/ziadoz/awesome-php)
@@ -52,16 +56,22 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 - [PHP Libraries, Resources, Shiny Things](https://github.com/ziadoz/awesome-php)
 
 ## Database
+- [Database Resources](https://github.com/sindresorhus/awesome)
 
 ### SQL Server
+- [SQL Server Resources](https://github.com/ktaranov/sqlserver-kit)
 
 ### PostgreSQL
+- [PostgreSQL Software, Libraries, Tools $ Resources](https://github.com/dhamaniasad/awesome-postgres)
 
 ### Cassandra
+- [Cassandra Libraries & Resources](https://anant.github.io/awesome-cassandra/)
 
 ### Solr
+- [Solr Libraries & Resources](https://anant.github.io/awesome-solr/)
 
 ### Elasticsearch
+- [Elasticsearch Resources](https://github.com/dzharii/awesome-elasticsearch)
 
 ### GraphQL
 
