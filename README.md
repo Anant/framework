@@ -74,24 +74,30 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 - [Elasticsearch Resources](https://github.com/dzharii/awesome-elasticsearch)
 
 ### GraphQL
+- [GraphQL Resources](https://github.com/chentsulin/awesome-graphql)
 
 ## System
+- [Design System Resources](https://github.com/alexpate/awesome-design-systems)
 
 ### Container
+- [Container Resources](https://github.com/tcnksm/awesome-container)
 
 ### Container Orchestration
 
 ### Infrastructure Automation
+- [Infrastructure Automation Resources](https://github.com/atinfo/awesome-test-automation)
 
 ### DevOps
+- [DevOps Resources](https://github.com/mikewootini/awesome-devops)
 
 ## Cloud Services
+- [Cloud Services Resources](https://github.com/rootsongjc/awesome-cloud-native)
 
 ### SaaS
+- [SaaS Resources](https://github.com/GetStream/awesome-saas-services)
 
 ### PaaS
+- [PaaS Resources]()
 
 ### IaaS
-
-### DevOps
 
