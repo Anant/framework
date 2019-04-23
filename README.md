@@ -13,10 +13,10 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 ## General 
 
 ### Software Architect Roadmap
-- [Knowledge Base](https://github.com/kamranahmedse/developer-roadmap)
- - 1) Front End Development
- - 2) Back End Development
-      - DevOps
+- Knowledge Base
+ - 1) [Front End Development](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png)
+ - 2) [Back End Development](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png)
+      - [DevOps](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/devops.png)
 
 ## Interface
 
