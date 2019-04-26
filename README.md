@@ -55,7 +55,7 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 ### PHP
 - [PHP Libraries, Resources, Shiny Things](https://github.com/ziadoz/awesome-php)
 
-## Database
+## Data
 - [Database Resources](https://github.com/sindresorhus/awesome)
 
 ### SQL Server
