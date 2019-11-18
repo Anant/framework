@@ -4,7 +4,7 @@ This is an assessment we use to see what your level of aptitude is with industry
 We send this assessment to candidates we feel are good at the basic knowledge and are able to communicate. The goal is to see how you can use existing
 documentation to achieve this or to figure something out. A big part of our company's work is to learn new tools, teach it internally, and communicate it to clients. 
 
-What we're looking for is how well you reviewed the links, did additional research as needed, and how far you were able to go. 
+What we're looking for is how well you reviewed the links, did additional research as needed, and how far you were able to go. Pick one track and let us know how far you get in 24-48 hours. You can take longer but we are making decisions soon so we're looking for folks who can quickly get started with instructions like this and start to figure things out.
 
 - ## Customer Experience / Engineer
   - Demonstrate basic knowledge of modern dev ops tooling
