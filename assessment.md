@@ -61,6 +61,6 @@ What we're looking for is how well you reviewed the links, did additional resear
   - Demonstrate basic knowledge of general integration platforms platforms as a service
     - Using a general automation platform take data from a source system, transform it, and then import it into a database
      - StitchData, XPlenty, Databox
-  - Demonstrate basic knowledge of general business integration platforms as a service
+  - Demonstrate basic knowledge of general business intelligence platforms as a service
     - Using a general business integration platform as a service retrieve data from an outside source such as an API or a database and visualize it in some way 
      - Domo, Tableau, Redash, Metabase
