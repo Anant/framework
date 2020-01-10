@@ -27,7 +27,11 @@ What we're looking for is how well you reviewed the links, did additional resear
       - Install Sitecore in the Cloud [ AWS | Azure ]
       - Develop and Deploy a View Rendering 
       - Develop and Deploy a Control Rendering 
+      - Basic Understanding of Sitecore Packagaes 
+      - Basic Understanding of Unicorn
+      - Basic Understanding of TDS
   - Demonstrate Advanced Knowledge of Sitecore
+    - Sitecore CICD CM & CD Deployment 
     - Personalization
     - Search
     - xDB installation, maintenance, personalization integration 
