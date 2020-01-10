@@ -1,4 +1,4 @@
-# Assessment for Apprentices
+# Assessment for Candidates
 
 This is an assessment we use to see what your level of aptitude is with industry tools that are freely available on the internet. 
 We send this assessment to candidates we feel are good at the basic knowledge and are able to communicate. The goal is to see how you can use existing
