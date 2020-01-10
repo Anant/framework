@@ -6,7 +6,7 @@ documentation to achieve this or to figure something out. A big part of our comp
 
 What we're looking for is how well you reviewed the links, did additional research as needed, and how far you were able to go. Pick one track and let us know how far you get in 24-48 hours. You can take longer but we are making decisions soon so we're looking for folks who can quickly get started with instructions like this and start to figure things out.
 
-- ## Customer Experience / Engineer
+- ## Customer Experience Engineer
   - Demonstrate basic knowledge of modern dev ops tooling
     - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html#installation-with-docker) 
     - Demonstrate working Wallabag Front End without any CSS Issues
@@ -21,7 +21,16 @@ What we're looking for is how well you reviewed the links, did additional resear
   - Demonstrate knowledge of using REST API to retrieve Data
     - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
     - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
-    
+- ## Enterprise Customer Experience Engineer
+    - Demonstrate Basic Knowledge of Sitecore
+      - Install Sitecore on Premise
+      - Install Sitecore in the Cloud [ AWS | Azure ]
+      - Develop and Deploy a View Rendering 
+      - Develop and Deploy a Control Rendering 
+  - Demonstrate Advanced Knowledge of Sitecore
+    - Personalization
+    - Search
+    - xDB installation, maintenance, personalization integration 
 - ## Data & Analytics / Engineer
   - [Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)
     - [Bring up DSE on Docker](https://docs.datastax.com/en/docker/doc/docker/dockerQuickStart.html) 
