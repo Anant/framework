@@ -23,6 +23,11 @@ What we're looking for is how well you reviewed the links, did additional resear
     - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
 - ## Enterprise Customer Experience Engineer
     - Demonstrate Basic Knowledge of Sitecore
+      - Create a ASP.NET MVC Accordion View
+      - Create a controller to retrieve Data 
+      - Use C# to connect your control to your View
+      - Pull Accordion entry data from SQL
+    - Demonstrate Basic Knowledge of Sitecore
       - Install Sitecore on Premise
       - Install Sitecore in the Cloud [ AWS | Azure ]
       - Develop and Deploy a View Rendering 
