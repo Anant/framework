@@ -34,7 +34,21 @@ What we're looking for is how well you reviewed the links, did additional resear
     - Sitecore CICD CM & CD Deployment 
     - Personalization
     - Search
-    - xDB installation, maintenance, personalization integration 
+    - xDB installation, customization, and  maintenance   
+    - Demonstrate the ability to Create aSsitecore Form
+    - Demonstrate Integrating Sitecore with Third-Party APIs
+- ## Enterprise Customer Experience Architect
+    - Demonstrate Enterprise Architecutre Knowledge 
+      - Demonstrate best practice knowledge for Sitecore, EpiServer, or Kentico
+      - Demonstrate Cloud deployment knowledge
+      - Demonstrate Horizontal & Vertical Scaling knowledge
+      - Demonstrate Tier & CICD Deploymnet knowledge
+      - Demonstrate the ability to communicate with the Client
+  - Demonstrate Enteprise Architecture of Sitecore
+    - Strong knowledge of On-Prem and Cloud Deployments
+    - Strong knowledge on all features of Sitecore
+    - Strong knowledge on Integrating Sitecore with Third-Party APIs
+    - xDB installation, customization, and  maintenance    
 - ## Data & Analytics / Engineer
   - [Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)
     - [Bring up DSE on Docker](https://docs.datastax.com/en/docker/doc/docker/dockerQuickStart.html) 
