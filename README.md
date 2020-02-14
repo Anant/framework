@@ -1,5 +1,5 @@
 # framework
-A curated list of commercial tools, libraries, frameworks, open source software, and commercial software that we recommend and references to the "awesome" curated lists for those tools. Also suggested roadmaps for those who are part of our team to master the areas to become a Platform Architect. Maintained by Rahul Singh of [Anant](http://anant.us). Feel free contact me if you'd like to collaborate on this and other awesome lists. [Awesome Cassandra](https://github.com/Anant/awesome-cassandra) , [Awesome Solr](https://github.com/Anant/awesome-solr), [Awesome Lucene](https://github.com/Anant/awesome-lucene)
+A curated list of commercial tools, libraries, frameworks, open source software, and commercial software that we recommend and references to the "awesome" curated lists for those tools. Also suggested roadmaps for those who are part of our team to master the areas to become a Platform Architect. Maintained by ANANT Corporation [Anant](http://anant.us). Feel free contact us through our issues log if you'd like to collaborate on this and other awesome lists. [Awesome Cassandra](https://github.com/Anant/awesome-cassandra) , [Awesome Solr](https://github.com/Anant/awesome-solr), [Awesome Lucene](https://github.com/Anant/awesome-lucene)
 
 ## Contents
 
