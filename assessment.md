@@ -47,7 +47,7 @@ What we're looking for is how well you reviewed the links, did additional resear
       - Demonstrate best practice knowledge for Sitecore, EpiServer, or Kentico
       - Demonstrate Cloud deployment knowledge
       - Demonstrate Horizontal & Vertical Scaling knowledge
-      - Demonstrate Tier & CICD Deploymnet knowledge
+      - Demonstrate Tier & CICD Deployment knowledge
       - Demonstrate the ability to communicate with the Client
   - Demonstrate Enteprise Architecture of Sitecore
     - Strong knowledge of On-Prem and Cloud Deployments
@@ -71,6 +71,35 @@ What we're looking for is how well you reviewed the links, did additional resear
     - Use an external tool like DBeaver or otherwise to show how to query data via CQL
     - [Start AlwaysOnSQL in DSE](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/alwaysOnSql.html)
     - [Use an external tool like DBeaver or otherwise to connect via JDBC and query data via SQL](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/simbaJdbcDriver.html)
+  - Advanced Demonstrate knowledge of Spark Streaming on cloud Spark Platform
+    - Create an account on a Public Cloud that offers a ready to go Spark instance for free. 
+      - Amazon EMR
+      - Databricks Community
+      - Google Cloud 
+    - Consume a public stream from the internet via Spark Streaming and persist it. If you can’t find it create random data using faker libraries. 
+      - Distributed DB
+        - Amazon MCS
+        - Azure Cosmos DB
+        - Cassandra on Docker
+        - Datastax Cloud
+      - Distributed File Systems
+        - S3
+        - Azure Blob
+        - GFS
+    - Create a batch process that analyzes the data and creates a report / or visualization. 
+      - Descriptive 
+      - Aggregate SQL queries on information 
+      - Histograms 
+      - Time Series Visualization 
+    - Predictive
+      - Classification 
+      - Regression 
+      - Sentiment Analysis 
+  - Deliver data 
+    - Notebook Interface 
+    - API 
+    - Visualization 
+
     
 - ## Information Systems / Business Analyst / Engineer
   - Demonstrate basic knowledge of cloud systems
