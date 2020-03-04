@@ -88,17 +88,17 @@ What we're looking for is how well you reviewed the links, did additional resear
         - GFS
     - Create a batch process that analyzes the data and creates a report / or visualization. 
       - Descriptive 
-      - Aggregate SQL queries on information 
-      - Histograms 
-      - Time Series Visualization 
-    - Predictive
-      - Classification 
-      - Regression 
-      - Sentiment Analysis 
-  - Deliver data 
-    - Notebook Interface 
-    - API 
-    - Visualization 
+        - Aggregate SQL queries on information 
+        - Histograms 
+        - Time Series Visualization 
+      - Predictive
+        - Classification 
+        - Regression 
+        - Sentiment Analysis 
+    - Deliver data 
+      - Notebook Interface 
+      - API 
+      - Visualization 
 
     
 - ## Information Systems / Business Analyst / Engineer
