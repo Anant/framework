@@ -53,7 +53,25 @@ What we're looking for is how well you reviewed the links, did additional resear
       - API 
       - Visualization 
 
-- ## Customer Experience Engineer
+- ## Data & Analytics / Platform Operator
+  - Demonstrate basic knowledge of modular infrastructure as code
+    - Create a jumpbox/ bastion node 
+    - Create a set of 3 virtual machines with public and private IPs
+    - Protect the public IP with firewall rules to only applicable rules for the application you are hosting
+  - Demonstrate basic knowledge of configuration management
+    - Using ansible, deploy a distributed application of your choice. 
+      - Apache Cassandra / Datastax 
+      - Apache Kafka / Confluent
+      - Apache Spark 
+    - Using ansible, deploy monitoring stack of your choice. 
+      - ELK / BEK Stack
+      - Prometheus / Grafana
+  - Run a basic load on the distributed platform 
+    - Using a load generator create traffic / load on the platform
+    - Show how load is distributed evenly / unevenly on platform   
+
+
+- ## Customer Experience / Platform Engineer
   - Demonstrate basic knowledge of modern dev ops tooling
     - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html#installation-with-docker) 
     - Demonstrate working Wallabag Front End without any CSS Issues
@@ -69,7 +87,7 @@ What we're looking for is how well you reviewed the links, did additional resear
     - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
     - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
  
-- ## Information Systems / Business Analyst / Engineer
+- ## Information Systems / Business Analyst / Platform Engineer
   - Demonstrate basic knowledge of cloud systems
     - Identify and sign up for a software as a service which has a developer API (CRM, Project Management, etc.)
      - Salesforce, Hubspot, etc. 
@@ -94,7 +112,7 @@ What we're looking for is how well you reviewed the links, did additional resear
     - Using a general business integration platform as a service retrieve data from an outside source such as an API or a database and visualize it in some way 
      - Domo, Tableau, Redash, Metabase
 
-- ## Enterprise Customer Experience Engineer
+- ## Customer Experience / Platform Engineer (Enterprise)
     - Demonstrate Basic Knowledge of Sitecore
       - Create a ASP.NET MVC Accordion View
       - Create a controller to retrieve Data 
@@ -115,7 +133,8 @@ What we're looking for is how well you reviewed the links, did additional resear
     - xDB installation, customization, and  maintenance   
     - Demonstrate the ability to Create aSsitecore Form
     - Demonstrate Integrating Sitecore with Third-Party APIs
-- ## Enterprise Customer Experience Architect
+
+- ## Customer Experience / Platform Architect (Enterprise)
     - Demonstrate Enterprise Architecutre Knowledge 
       - Demonstrate best practice knowledge for Sitecore, EpiServer, or Kentico
       - Demonstrate Cloud deployment knowledge
