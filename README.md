@@ -55,7 +55,7 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 ### PHP
 - [PHP Libraries, Resources, Shiny Things](https://github.com/ziadoz/awesome-php)
 
-## Big Data
+## Data
 
 ### Database
 - [Database Resources](https://github.com/sindresorhus/awesome)
@@ -86,12 +86,18 @@ A curated list of commercial tools, libraries, frameworks, open source software,
 
 ### Container Orchestration
 - [Container Orchestration Resources](https://github.com/Friz-zy/awesome-linux-containers)
+- [Kubernetes Resources](https://awesome-kubernetes.readthedocs.io/)
 
 ### Infrastructure Automation
 - [Infrastructure Automation Resources](https://github.com/atinfo/awesome-test-automation)
+- [Terraform Resources](https://github.com/shuaibiyy/awesome-terraform)
 
 ### DevOps
 - [DevOps Resources](https://github.com/mikewootini/awesome-devops)
+- [CI and CD](https://github.com/cicdops/awesome-ciandcd)
+- [CI Resources](https://github.com/ligurio/awesome-ci)
+- [Ansible Resources](https://github.com/KeyboardInterrupt/awesome-ansible)
+
 
 ## Cloud Services
 - [Cloud Services Resources](https://github.com/rootsongjc/awesome-cloud-native)
