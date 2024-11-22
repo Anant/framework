@@ -7,24 +7,24 @@ documentation to achieve this or to figure something out. A big part of our comp
 What we're looking for is how well you reviewed the links, did additional research as needed, and how far you were able to go. Pick one track and let us know how far you get in 24-48 hours. You can take longer but we are making decisions soon so we're looking for folks who can quickly get started with instructions like this and start to figure things out.
 
 
-- ## Data & Analytics / Engineer
-  - [Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)
+- ## Data & Analytics / Batch Platform Data Engineering (anant.us)
+  - **[Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)**
     - [Bring up DSE on Docker](https://docs.datastax.com/en/docker/doc/docker/dockerQuickStart.html) 
     - Demonstrate working DSE OpsCenter Front End
     - Demonstrate working DSE Studio Front End w/ Spark, SparkSQL, Graph
     - Demonstrate working CQLSH/Nodetool commands in Docker exec
-  - [Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/usingDSESpark.html)
+  - **[Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/usingDSESpark.html)**
     - Find a data set online or use Datastax Examples
     - Create a schema of use Datastax Example schema
     - Create a Spark Script (Python or Scala) OR Spark Job to import data into DSE
-  - Demonstrate knowledge of using basic Spark or SparkSQL to get counts
+  - **Demonstrate knowledge of using basic Spark or SparkSQL to get counts**
     - Using imported data set show how to use Spark to do basic aggregations/ filtering
     - Can use Spark or Spark SQL
-  - Demonstrate knowledge of using an external tool to use CQL and SQL  
+  - **Demonstrate knowledge of using an external tool to use CQL and SQL** 
     - Use an external tool like DBeaver or otherwise to show how to query data via CQL
     - [Start AlwaysOnSQL in DSE](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/alwaysOnSql.html)
     - [Use an external tool like DBeaver or otherwise to connect via JDBC and query data via SQL](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/simbaJdbcDriver.html)
-  - Advanced Demonstrate knowledge of Spark Streaming on cloud Spark Platform
+  - **Demonstrate advanced knowledge of Spark Streaming on cloud Spark Platform**
     - Create an account on a Public Cloud that offers a ready to go Spark instance for free. 
       - Amazon EMR
       - Databricks Community
@@ -53,11 +53,32 @@ What we're looking for is how well you reviewed the links, did additional resear
       - API 
       - Visualization 
 
-- ## Data & Analytics / Platform Operator
-  - Demonstrate basic knowledge of modular infrastructure as code
-    - Create a jumpbox/ bastion node 
-    - Create a set of 3 virtual machines with public and private IPs
-    - Protect the public IP with firewall rules to only applicable rules for the application you are hosting
+- ## Data & Analytics / Streaming Platform Data Engineering (anant.us)
+- **Demonstrate knowledge of distributed data systems**
+  - [Work with DataStax Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html)
+    - Connect to Astra DB (Cassandra) using CQLSH.
+    - Perform basic CRUD operations.
+
+- **Demonstrate knowledge of data streaming platforms**
+  - [Work with DataStax Astra Streaming](https://docs.datastax.com/en/astra-streaming/index.html)
+    - Create Astra Streaming (Pulsar)  topics and write a simple producer and consumer.
+    - Connect to Astra Streaming (Pulsar) using Kafka producer / consumer. 
+
+- **Advanced: Build a data pipeline**
+  - [Integrate AstraDB to Astra Streaming](https://github.com/datastax/astra-streaming-examples) 
+    - Create a CDC Connector from AstraDB (Cassandra) Table 1 to a Astra Streaming (Pulsar) Topic 1
+    - Create a data producer that adds data to the Table 1, so data comes into the Topic 1
+    - Create a Pulsar Function that performs an aggregation, or an enhancement on data in Topic 1 and saves it to Topic 2
+    - Connect Topic 2 to save data to AstraDB (Cassandra) Table 2
+
+
+- ## Data & Analytics / Platform Operator (anant.us)
+  - **Demonstrate knowledge of cloud services and infrastructure with modular infrastructure as code**
+    - Utilize AWS, Azure, or GCP to deploy data services.
+    - Set up instances using Terraform
+      - Create a jumpbox/ bastion node 
+      - Create a set of 3 virtual machines with public and private IPs
+      - Protect the public IP with firewall rules to only applicable rules for the application you are hosting
   - Demonstrate basic knowledge of configuration management
     - Using ansible, deploy a distributed application of your choice. 
       - Apache Cassandra / Datastax 
