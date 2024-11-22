@@ -161,7 +161,7 @@ What we're looking for is how well you reviewed the links, did additional resear
     - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
 
 
-- ## Automation Engineer / No-Code Platform Engineer @[Kono.team](https://kono.team)
+- ## Automation Engineer / Automation Platform Engineer @[Kono.team](https://kono.team)
 
 - **Demonstrate knowledge of RPA tools**
   - Automate tasks with [RPA Framework](https://rpaframework.org/) or [RobotFramework]([https://www.uipath.com/rpa/academy](https://robotframework.org/)
@@ -188,21 +188,21 @@ What we're looking for is how well you reviewed the links, did additional resear
   - **Demonstrate basic knowledge of cloud systems**
     - Identify and sign up for a software as a service which has a developer API (CRM, Project Management, etc.)
      - Salesforce, Hubspot, etc. 
-     - Jira, Asana, [Trello](http://leaves.anant.us/leaves/#!/?tag=trello)
+     - Notion, Jira, Todoist, Trello
     - Identify and sign up for a platform as a service on which you can deploy front end, back end code
-     - Heroku, Zeit, AWS Lambda
-     - [Netlify](http://leaves.anant.us/leaves/#!/?tag=netlify), Zeit, AWS CloudFront
+     - Heroku, Vercel, AWS Lambda
+     - [Netlify](https://www.netlify.com), Vercel, Render
     - Identify and signup for a infrastructure as a service on which you can manage virtual machines
      - DigitalOcean, AWS, Azure
   
   - **Demonstrate basic knowledge general rapid prototyping [no code platform as a service](https://www.g2.com/categories/no-code-development-platforms)**
-    - [Using a rapid prototyping platform create a form to collect data from a potential job seeker (name, email, LinkedIn, GitHub, address, zip)](http://leaves.anant.us/leaves/#!/?tag=nocode)
-     - [Airtable](http://leaves.anant.us/leaves/#!/?tag=airtable), Google Forms, etc. 
+    - Using a rapid prototyping platform create a form to collect data from a potential job seeker (name, email, LinkedIn, GitHub, address, zip)
+     - [Airtable](http://airtable.com), Google Forms, etc. 
      - Zoho App Creator, etc.
        
   - **Demonstrate basic knowledge general automation platform platforms as a service**
     - Using a general automation platform take data from a source system when data is entered and send it to a destination system in real-time
-     - [Zapier](http://leaves.anant.us/leaves/#!/?tag=zapier), Tray.io
+     - [Zapier](https://zapier.com), [Make](Make.com)
      - Microsoft Flow, Zoho Flow
        
   - **Demonstrate basic knowledge of general integration platforms platforms as a service**
@@ -215,7 +215,8 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 **Please submit:**
 
-- Documentation of your work (code snippets, screenshots, write-ups).
+- Documentation of your work (code snippets, screenshots, write-ups) in a presentation or a document. 
 - A brief explanation of your approach and any challenges faced.
 - Any additional research or resources you utilized.
+  
 
