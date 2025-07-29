@@ -8,12 +8,12 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 
 - ## Data & Analytics / Batch Platform Data Engineering @[Anant.us](https://anant.us)
-  - **[Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)**
-    - [Bring up DSE on Docker](https://docs.datastax.com/en/docker/doc/docker/dockerQuickStart.html) 
+  - **[Demonstrate basic knowledge of dev ops tooling](https://hub.docker.com/r/datastax/dse-server)**
+    - [Bring up DSE on Docker](https://hub.docker.com/r/datastax/dse-server) 
     - Demonstrate working DSE OpsCenter Front End
     - Demonstrate working DSE Studio Front End w/ Spark, SparkSQL, Graph
     - Demonstrate working CQLSH/Nodetool commands in Docker exec
-  - **[Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/usingDSESpark.html)**
+  - **[Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/spark/sparkIntro.html)**
     - Find a data set online or use Datastax Examples
     - Create a schema of use Datastax Example schema
     - Create a Spark Script (Python or Scala) OR Spark Job to import data into DSE
@@ -55,12 +55,12 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 - ## Data & Analytics / Streaming Platform Data Engineering @[Anant.us](https://anant.us)
 - **Demonstrate knowledge of distributed data systems**
-  - [Work with DataStax Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html)
+  - [Work with DataStax Astra DB](https://docs.datastax.com/en/astra/docs/)
     - Connect to Astra DB (Cassandra) using CQLSH.
     - Perform basic CRUD operations.
 
 - **Demonstrate knowledge of data streaming platforms**
-  - [Work with DataStax Astra Streaming](https://docs.datastax.com/en/astra-streaming/index.html)
+  - [Work with DataStax Astra Streaming](https://docs.datastax.com/en/streaming/astra-streaming/)
     - Create Astra Streaming (Pulsar)  topics and write a simple producer and consumer.
     - Connect to Astra Streaming (Pulsar) using Kafka producer / consumer. 
 
@@ -144,21 +144,21 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 - ## Customer Experience / Platform Engineer @[Appleseed.works](https://appleseed.works)
   - **Demonstrate basic knowledge of modern dev ops tooling**
-    - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html#installation-with-docker) 
+    - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html) 
     - Demonstrate working Wallabag Front End without any CSS Issues
     - Demonstrate working Wallabag API via Postman
       
-  - **[Demonstrate knowledge of using REST API to send Data](https://doc.wallabag.org/en/developer/api/readme.html)**
-    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
-    - Create a front end or back end tool in any language or using an [existing API wrapper](https://doc.wallabag.org/en/developer/api/resources.html)
+  - **[Demonstrate knowledge of using REST API to send Data](https://doc.wallabag.org/en/developer/api/)**
+    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/)
+    - Create a front end or back end tool in any language or using an [existing API wrapper](https://doc.wallabag.org/en/developer/api/)
     - Tool should be able to take a copied /pasted text
     - Tool should parse out all the links (http , https) 
     - Tool should parse any other text as "tags"
-    - [Tool should import the links into the API using the URL and the Tags](https://doc.wallabag.org/en/developer/api/methods.html)
+    - [Tool should import the links into the API using the URL and the Tags](https://doc.wallabag.org/en/developer/api/)
       
   - **Demonstrate knowledge of using REST API to retrieve Data**
-    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
-    - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
+    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/)
+    - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/)
 
 
 - ## Automation Engineer / Automation Platform Engineer @[Kono.team](https://kono.team)
