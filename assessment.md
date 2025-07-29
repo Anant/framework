@@ -8,12 +8,12 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 
 - ## Data & Analytics / Batch Platform Data Engineering @[Anant.us](https://anant.us)
-  - **[Demonstrate basic knowledge of dev ops tooling](https://docs.datastax.com/en/docker/doc/index.html)**
-    - [Bring up DSE on Docker](https://docs.datastax.com/en/docker/doc/docker/dockerQuickStart.html) 
+  - **[Demonstrate basic knowledge of dev ops tooling](https://hub.docker.com/r/datastax/dse-server)**
+    - [Bring up DSE on Docker](https://hub.docker.com/r/datastax/dse-server) 
     - Demonstrate working DSE OpsCenter Front End
     - Demonstrate working DSE Studio Front End w/ Spark, SparkSQL, Graph
     - Demonstrate working CQLSH/Nodetool commands in Docker exec
-  - **[Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.7/dse-admin/datastax_enterprise/spark/usingDSESpark.html)**
+  - **[Demonstrate knowledge of using basic Spark to Import Data](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/spark/sparkIntro.html)**
     - Find a data set online or use Datastax Examples
     - Create a schema of use Datastax Example schema
     - Create a Spark Script (Python or Scala) OR Spark Job to import data into DSE
@@ -55,12 +55,12 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 - ## Data & Analytics / Streaming Platform Data Engineering @[Anant.us](https://anant.us)
 - **Demonstrate knowledge of distributed data systems**
-  - [Work with DataStax Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html)
+  - [Work with DataStax Astra DB](https://docs.datastax.com/en/astra/docs/)
     - Connect to Astra DB (Cassandra) using CQLSH.
     - Perform basic CRUD operations.
 
 - **Demonstrate knowledge of data streaming platforms**
-  - [Work with DataStax Astra Streaming](https://docs.datastax.com/en/astra-streaming/index.html)
+  - [Work with DataStax Astra Streaming](https://docs.datastax.com/en/streaming/astra-streaming/)
     - Create Astra Streaming (Pulsar)  topics and write a simple producer and consumer.
     - Connect to Astra Streaming (Pulsar) using Kafka producer / consumer. 
 
@@ -96,11 +96,11 @@ What we're looking for is how well you reviewed the links, did additional resear
 - **Demonstrate knowledge of vector databases**
   - [Set up and use PGVector with PostgreSQL](https://github.com/pgvector/pgvector)
     - Store and query vector embeddings.
-  - [Explore Qdrant for similarity search](https://qdrant.tech/documentation/quick_start/)
+  - [Explore Qdrant for similarity search](https://qdrant.tech/documentation/quick-start/)
     - Index sample data and perform vector searches.
 
 - **Demonstrate knowledge of AI frameworks**
-  - [Implement LangChain for LLM applications](https://langchain.readthedocs.io/en/latest/)
+  - [Implement LangChain for LLM applications](https://python.langchain.com/v0.2/docs/introduction/)
     - Develop a simple application chaining language model prompts.
   - [Use LlamaIndex to connect LLMs with external data](https://github.com/run-llama/llama_index)
     - Build an index and query it using an LLM.
@@ -144,33 +144,33 @@ What we're looking for is how well you reviewed the links, did additional resear
 
 - ## Customer Experience / Platform Engineer @[Appleseed.works](https://appleseed.works)
   - **Demonstrate basic knowledge of modern dev ops tooling**
-    - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html#installation-with-docker) 
+    - [Bring up Wallabag on Docker](https://doc.wallabag.org/en/admin/installation/installation.html) 
     - Demonstrate working Wallabag Front End without any CSS Issues
     - Demonstrate working Wallabag API via Postman
       
-  - **[Demonstrate knowledge of using REST API to send Data](https://doc.wallabag.org/en/developer/api/readme.html)**
-    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
-    - Create a front end or back end tool in any language or using an [existing API wrapper](https://doc.wallabag.org/en/developer/api/resources.html)
+  - **[Demonstrate knowledge of using REST API to send Data](https://doc.wallabag.org/en/developer/api/)**
+    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/)
+    - Create a front end or back end tool in any language or using an [existing API wrapper](https://doc.wallabag.org/en/developer/api/)
     - Tool should be able to take a copied /pasted text
     - Tool should parse out all the links (http , https) 
     - Tool should parse any other text as "tags"
-    - [Tool should import the links into the API using the URL and the Tags](https://doc.wallabag.org/en/developer/api/methods.html)
+    - [Tool should import the links into the API using the URL and the Tags](https://doc.wallabag.org/en/developer/api/)
       
   - **Demonstrate knowledge of using REST API to retrieve Data**
-    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/oauth.html)
-    - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/methods.html)
+    - [Authenticate external front end or back end application](https://doc.wallabag.org/en/developer/api/)
+    - [Given a "tag" retrieve and display URL, Tags, and if Applicable the Image Preview](https://doc.wallabag.org/en/developer/api/)
 
 
 - ## Automation Engineer / Automation Platform Engineer @[Kono.team](https://kono.team)
 
 - **Demonstrate knowledge of RPA tools**
-  - Automate tasks with [RPA Framework](https://rpaframework.org/) or [RobotFramework]([https://www.uipath.com/rpa/academy](https://robotframework.org/)
+  - Automate tasks with [RPA Framework](https://rpaframework.org/) or [RobotFramework](https://robotframework.org/)
     - Create an automation that performs data entry or web scraping.
   - [Use Python for scripting automation](https://automatetheboringstuff.com/)
     - Write scripts to automate repetitive tasks.
 
 - **Implement Gen AI automation**
-  - [Leverage AI services in automation]([https://cloud.google.com/ai-platform](https://www.make.com/en/integrations/openai-gpt-3))
+  - [Leverage AI services in automation](https://www.make.com/en/integrations/openai-gpt-3)
     - Integrate AI completion in an Automated Workflow
 
 - **Demonstrate API integration**
@@ -197,12 +197,12 @@ What we're looking for is how well you reviewed the links, did additional resear
   
   - **Demonstrate basic knowledge general rapid prototyping [no code platform as a service](https://www.g2.com/categories/no-code-development-platforms)**
     - Using a rapid prototyping platform create a form to collect data from a potential job seeker (name, email, LinkedIn, GitHub, address, zip)
-     - [Airtable](http://airtable.com), Google Forms, etc. 
+     - [Airtable](https://airtable.com), Google Forms, etc. 
      - Zoho App Creator, etc.
        
   - **Demonstrate basic knowledge general automation platform platforms as a service**
     - Using a general automation platform take data from a source system when data is entered and send it to a destination system in real-time
-     - [Zapier](https://zapier.com), [Make](Make.com)
+     - [Zapier](https://zapier.com), [Make](https://www.make.com)
      - Microsoft Flow, Zoho Flow
        
   - **Demonstrate basic knowledge of general integration platforms platforms as a service**
