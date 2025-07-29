@@ -96,11 +96,11 @@ What we're looking for is how well you reviewed the links, did additional resear
 - **Demonstrate knowledge of vector databases**
   - [Set up and use PGVector with PostgreSQL](https://github.com/pgvector/pgvector)
     - Store and query vector embeddings.
-  - [Explore Qdrant for similarity search](https://qdrant.tech/documentation/quick_start/)
+  - [Explore Qdrant for similarity search](https://qdrant.tech/documentation/quick-start/)
     - Index sample data and perform vector searches.
 
 - **Demonstrate knowledge of AI frameworks**
-  - [Implement LangChain for LLM applications](https://langchain.readthedocs.io/en/latest/)
+  - [Implement LangChain for LLM applications](https://python.langchain.com/v0.2/docs/introduction/)
     - Develop a simple application chaining language model prompts.
   - [Use LlamaIndex to connect LLMs with external data](https://github.com/run-llama/llama_index)
     - Build an index and query it using an LLM.
@@ -164,13 +164,13 @@ What we're looking for is how well you reviewed the links, did additional resear
 - ## Automation Engineer / Automation Platform Engineer @[Kono.team](https://kono.team)
 
 - **Demonstrate knowledge of RPA tools**
-  - Automate tasks with [RPA Framework](https://rpaframework.org/) or [RobotFramework]([https://www.uipath.com/rpa/academy](https://robotframework.org/)
+  - Automate tasks with [RPA Framework](https://rpaframework.org/) or [RobotFramework](https://robotframework.org/)
     - Create an automation that performs data entry or web scraping.
   - [Use Python for scripting automation](https://automatetheboringstuff.com/)
     - Write scripts to automate repetitive tasks.
 
 - **Implement Gen AI automation**
-  - [Leverage AI services in automation]([https://cloud.google.com/ai-platform](https://www.make.com/en/integrations/openai-gpt-3))
+  - [Leverage AI services in automation](https://www.make.com/en/integrations/openai-gpt-3)
     - Integrate AI completion in an Automated Workflow
 
 - **Demonstrate API integration**
@@ -197,12 +197,12 @@ What we're looking for is how well you reviewed the links, did additional resear
   
   - **Demonstrate basic knowledge general rapid prototyping [no code platform as a service](https://www.g2.com/categories/no-code-development-platforms)**
     - Using a rapid prototyping platform create a form to collect data from a potential job seeker (name, email, LinkedIn, GitHub, address, zip)
-     - [Airtable](http://airtable.com), Google Forms, etc. 
+     - [Airtable](https://airtable.com), Google Forms, etc. 
      - Zoho App Creator, etc.
        
   - **Demonstrate basic knowledge general automation platform platforms as a service**
     - Using a general automation platform take data from a source system when data is entered and send it to a destination system in real-time
-     - [Zapier](https://zapier.com), [Make](Make.com)
+     - [Zapier](https://zapier.com), [Make](https://www.make.com)
      - Microsoft Flow, Zoho Flow
        
   - **Demonstrate basic knowledge of general integration platforms platforms as a service**
